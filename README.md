@@ -1,4 +1,9 @@
 # TEAM_TASK_8
+# TEAM NAME - ARTH2020.2.20 GROUP_4
+# 1. PRITEE DHARME
+# 2. SUYOG SHINDE
+# 3. SHRIKANT LUHARIA
+# 4. SURAJ KUMAR
 # Intregating some concept using python script
 ![py](https://user-images.githubusercontent.com/64534620/98458175-d3ba5a00-21b3-11eb-8df6-a3d69394e5a4.jpg)
 # To lanch the Hadoop menu 
