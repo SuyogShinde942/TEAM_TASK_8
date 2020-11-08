@@ -14,5 +14,5 @@
 ![partiton](https://user-images.githubusercontent.com/64534620/98458184-f2205580-21b3-11eb-9041-d837b0af5837.png)
 # To lanch the docker menu
 ![docker](https://user-images.githubusercontent.com/64534620/98458187-f8163680-21b3-11eb-98b7-639482e664aa.png)
-# To Lunch the webserver
+# To Lanch the webserver
 ![web](https://user-images.githubusercontent.com/64534620/98458191-fea4ae00-21b3-11eb-972c-8793814eb9ec.jpg)
