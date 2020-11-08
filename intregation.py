@@ -5,7 +5,7 @@ import getpass
 
 os.system("tput setaf 3")
 print("""
-\n\tATRH2020.2.20 Group 4
+\n\tARTH2020.2.20 Group 4
 
 \n\tTEAM MEMBERS
 \t1.Pritee Dharme
@@ -29,11 +29,11 @@ if passwd != "root":
 def task():
     print("""
 \n
-           Press 1 : To lanch the Hadoop menu
-           Press 2 : To lanch the AWS menu
-           Press 3 : To lanch the Partition menu
-           Press 4 : To lanch the docker menu
-           press 5 : To Lunch the webserver
+           Press 1 : To launch the Hadoop menu
+           Press 2 : To launch the AWS menu
+           Press 3 : To launch the Partition menu
+           Press 4 : To launch the docker menu
+           press 5 : To Launch the webserver
            Press 6 : Exit..
 
 """)
